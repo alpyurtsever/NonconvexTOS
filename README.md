@@ -15,11 +15,13 @@ NOTES
 
 This code is tested with MATLAB R2018a on macOS Catalina.
 
-You need to download QAPLIB data into the data folder. 
 QAPLIB datasets are available online at:
 http://anjos.mgi.polymtl.ca/qaplib/inst.html
 https://www.opt.math.tugraz.at/qaplib/inst.html
 https://coral.ise.lehigh.edu/data-sets/qaplib/qaplib-problem-instances-and-solutions/
+
+You need to download QAPLIB data into the data folder. 
+You can do this automatically by running the "Download_QAPLIB_data.m" script.
 
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
